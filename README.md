@@ -6,7 +6,7 @@ Fullstack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ambitionlessdev@gmail.com](mailto:ambitionlessdev@gmail.com)
-* 🧠  I'm currently learning Websockets | Rust
+* 🧠  I'm currently learning Redis
 * 👥  I'm looking to collaborate on Interesting Projects
 * 💬  Ask me about I don't know anything besides coding!
 
